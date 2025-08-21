@@ -82,6 +82,14 @@ export default function ProjectsPage() {
       href: "https://discursos.vercel.app",
       image: "/images/7.gif"
     },
+    {
+      id: '8',
+      label: "Perfil Pessoal",
+      modalTitle: "Perfil Personalizado a seu Gosto",
+      modalMessage: "Quer ter um Perfil Online Personalizável? Me contate para conseguir o seu",
+      href: "https://perfil-pessoal-one.vercel.app",
+      image: "/images/7.gif"
+    },
   ];
 
   const handleProjectClick = (project: Project) => {
