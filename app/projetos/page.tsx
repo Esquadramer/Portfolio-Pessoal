@@ -88,7 +88,7 @@ export default function ProjectsPage() {
       modalTitle: "Perfil Personalizado a seu Gosto",
       modalMessage: "Quer ter um Perfil Online Personalizável? Me contate para conseguir o seu",
       href: "https://perfil-pessoal-one.vercel.app",
-      image: "/images/7.gif"
+      image: "/images/8.gif"
     },
   ];
 
