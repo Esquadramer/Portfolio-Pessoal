@@ -84,11 +84,20 @@ export default function ProjectsPage() {
     },
     {
       id: '8',
+      label: "Nemesis of the Word",
+      modalTitle: "Sobreviva pelo maior tempo que conseguir!!",
+      modalMessage: "Um projeto requisitado pela Uninter como conclusão do módulo de (Linguagem de Programação Aplicada) um jogo feito em Python 2D, não foi colocado o download do jogo porque excede o limite de MB no Github",
+      href: "",
+      image: "/images/8.gif",
+      video: "/videos/NemesisoftheWord.mp4"
+    },
+    {
+      id: '9',
       label: "Perfil Pessoal",
       modalTitle: "Perfil Personalizado a seu Gosto",
       modalMessage: "Quer ter um Perfil Online Personalizável? Me contate para conseguir o seu",
       href: "https://perfil-pessoal-one.vercel.app",
-      image: "/images/8.gif"
+      image: "/images/9.gif"
     },
   ];
 
