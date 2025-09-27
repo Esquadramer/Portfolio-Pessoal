@@ -99,6 +99,14 @@ export default function ProjectsPage() {
       href: "https://perfil-pessoal-one.vercel.app",
       image: "/images/9.gif"
     },
+    {
+      id: '10',
+      label: "Aceita um jantar?",
+      modalTitle: "Conhecendo a pessoa",
+      modalMessage: "Aqui você pode conhecer mais sobre a pessoa e também responder um questionário sobre oque você gosta",
+      href: "https://jantar-omega.vercel.app",
+      image: "/images/10.gif"
+    },
   ];
 
   const handleProjectClick = (project: Project) => {
