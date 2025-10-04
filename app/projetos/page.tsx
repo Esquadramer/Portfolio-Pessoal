@@ -84,7 +84,7 @@ export default function ProjectsPage() {
     },
     {
       id: '8',
-      label: "Nemesis of the Word",
+      label: "Nemesis of the World",
       modalTitle: "Sobreviva pelo maior tempo que conseguir!!",
       modalMessage: "Um projeto requisitado pela Uninter como conclusão do módulo de (Linguagem de Programação Aplicada) um jogo feito em Python 2D, não foi colocado o download do jogo porque excede o limite de MB no Github",
       href: "",
