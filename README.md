@@ -1,4 +1,6 @@
-# 👋 Prazer meu nobre, me chamo Tiago de Freitas Machado!
+# Prazer meu nobre, me chamo Tiago de Freitas Machado!
+
+![Screenshot do Meu Projeto](/public/Logo.png)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/tiagofreitasmachado/)
 [![Portifólio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-pessoal-mu-virid.vercel.app)
@@ -34,7 +36,7 @@ Sou um Desenvolvedor Backend apaixonado por Criação de Programas e Jogos. Ador
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SrFearless&area=false&hide_border=true&hide_title=true&theme=gotham" height="250" alt="activity-graph graph"  />
 </div>
 
-## 📌 Projeto
+# 📌 Projeto
 ### 🏆 [Portifólio Pessoal](https://portfolio-pessoal-mu-virid.vercel.app)
 Esse é meu currículo online no qual eu coloco minha informações acadêmicas, foto dos certificados, minhas especializações, projetos já feitos e informações para contato,
 um projeto desafiador no qual melhora a facilidade de quem quiser conhecer um pouco mais de você, apresentando projetos em formatos de link para página, vídeos e download.
@@ -44,6 +46,8 @@ um projeto desafiador no qual melhora a facilidade de quem quiser conhecer um po
 Por ser um Portifólio Online não precisa baixar, somente acessar
 
 Por ser um "Currículo" não vai ser Open Source
+
+![Screenshot do Meu Projeto](/public/print.png)
 
 ### Tecnologias utilizadas:
 ### Linguagens de Programação
