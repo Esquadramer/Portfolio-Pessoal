@@ -37,6 +37,9 @@ Sou um Desenvolvedor Backend apaixonado por Criação de Programas e Jogos. Ador
 </div>
 
 # 📌 Projeto
+
+![Screenshot do Meu Projeto](/public/print.png)
+
 ### 🏆 [Portifólio Pessoal](https://portfolio-pessoal-mu-virid.vercel.app)
 Esse é meu currículo online no qual eu coloco minha informações acadêmicas, foto dos certificados, minhas especializações, projetos já feitos e informações para contato,
 um projeto desafiador no qual melhora a facilidade de quem quiser conhecer um pouco mais de você, apresentando projetos em formatos de link para página, vídeos e download.
@@ -46,8 +49,6 @@ um projeto desafiador no qual melhora a facilidade de quem quiser conhecer um po
 Por ser um Portifólio Online não precisa baixar, somente acessar
 
 Por ser um "Currículo" não vai ser Open Source
-
-![Screenshot do Meu Projeto](/public/print.png)
 
 ### Tecnologias utilizadas:
 ### Linguagens de Programação
