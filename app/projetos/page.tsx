@@ -61,8 +61,8 @@ export default function ProjectsPage() {
       id: '5',
       label: "Fichamer",
       modalTitle: "Aventura-se Agora!!",
-      modalMessage: "Uma Ficha para Fãs de D&D Edição 5 onde você vai poder aumentar a imersão na sua Mesa.",
-      href: "",
+      modalMessage: "Uma Ficha para Fãs de D&D Edição 5 onde você vai poder aumentar a imersão na sua Mesa. (Clique no botão para ter uma demonstração Demo)",
+      href: "https://fichamer-demo.vercel.app",
       image: "/images/2.gif"
     },
     {
