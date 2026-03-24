@@ -114,7 +114,7 @@ export default function ResumePage() {
                 </Button>
                 
                 <img
-                  src="/icons/Eu.png"
+                  src="/icons/Eu 2.png"
                   alt="Tiago de Freitas Machado"
                   className="h-64 w-64 rounded-full object-cover border-4 border-red-800 dark:border-red-700 shadow-lg"
                 />
