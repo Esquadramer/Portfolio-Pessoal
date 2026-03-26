@@ -65,7 +65,7 @@ export default function ContactPage() {
               className="border-red-800 dark:border-red-700 text-red-900 dark:text-red-200 hover:bg-red-900/90 dark:hover:bg-red-800/80"
             >
               <a
-                href="https://github.com/SrFearless"
+                href="https://github.com/Esquadramer"
                 target="_blank"
                 rel="noopener noreferrer"
               >
