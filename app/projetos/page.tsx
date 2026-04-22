@@ -107,6 +107,14 @@ export default function ProjectsPage() {
       href: "https://jantar-omega.vercel.app",
       image: "/images/10.gif"
     },
+    {
+      id: '11',
+      label: "Temporizadores",
+      modalTitle: "Momentos incriveis",
+      modalMessage: "Pense em todos os momentos que vocês já teve, acha que lembra de todos?",
+      href: "https://temporizadores-phi.vercel.app/",
+      image: "/images/11.gif"
+    },
   ];
 
   const handleProjectClick = (project: Project) => {
